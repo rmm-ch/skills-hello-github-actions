@@ -6,6 +6,8 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+:whale: :donkey: :hatching_chick:
+
 ## Step 4: Merge your workflow file
 
 _You're now able to write and run an Actions workflow! :sparkles:_
